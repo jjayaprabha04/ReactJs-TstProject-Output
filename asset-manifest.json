@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.f113baee.js",
-    "static/js/787.b52190a6.chunk.js": "/static/js/787.b52190a6.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.f113baee.js.map": "/static/js/main.f113baee.js.map",
-    "787.b52190a6.chunk.js.map": "/static/js/787.b52190a6.chunk.js.map"
+    "main.css": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/static/css/main.e6c13ad2.css",
+    "main.js": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/static/js/main.09783272.js",
+    "static/js/787.b52190a6.chunk.js": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/static/js/787.b52190a6.chunk.js",
+    "index.html": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/index.html",
+    "main.e6c13ad2.css.map": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/static/css/main.e6c13ad2.css.map",
+    "main.09783272.js.map": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/static/js/main.09783272.js.map",
+    "787.b52190a6.chunk.js.map": "https://jjayaprabha04.github.io/ReactJs-TstProject-Output/static/js/787.b52190a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f113baee.js"
+    "static/js/main.09783272.js"
   ]
 }
